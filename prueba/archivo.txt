@@ -1,1 +1,2 @@
 Esto es un archivo de prueba.\nCambios desde local.
+Nueva línea añadida en la nueva rama.
